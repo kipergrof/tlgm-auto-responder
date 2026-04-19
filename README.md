@@ -70,8 +70,8 @@ You can define keywords in the settings panel. If an event's title contains one 
 
 If this script saved your DKP and made your life easier, please consider supporting the project! **No registration required** for the likes or coffee:
 
-* **Drop a Like:** [![Likes](https://api.lyket.dev/stats/v1/like/buttons/tlgm-auto-responder/github-repo?style=flat&color=green)](https://lyket.dev) (Click the badge!)
-* **Buy me a coffee:** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](IDE_MÁSOLD_BE_A_BMC_LINKEDET)
+* **Drop a Like:** [![Support](https://img.shields.io/badge/Like-The%20Project-00ffcc?style=for-the-badge&logo=target)](https://github.com/kipergrof/tlgm-auto-responder/stargazers)
+* **Buy me a coffee:** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/kipergrof)
 * **Give it a ⭐ Star:** If you have a GitHub account, a star is greatly appreciated!
 
 **Found a bug?** Please open an **Issue** or reach out!
