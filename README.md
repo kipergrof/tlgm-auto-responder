@@ -68,10 +68,9 @@ You can define keywords in the settings panel. If an event's title contains one 
 
 ## ☕ Support & Feedback
 
-If this script saved your DKP and made your life easier, please consider supporting the project! **No registration required** for the likes or coffee:
+If this script saved your DKP and made your life easier, please consider supporting the project!
 
-* **Drop a Like:** [![Support](https://img.shields.io/badge/Like-The%20Project-00ffcc?style=for-the-badge&logo=target)](https://github.com/kipergrof/tlgm-auto-responder/stargazers)
-* **Buy me a coffee:** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/kipergrof)
 * **Give it a ⭐ Star:** If you have a GitHub account, a star is greatly appreciated!
+* **Buy me a coffee:** [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/kipergrof)
 
 **Found a bug?** Please open an **Issue** or reach out!
